@@ -1,0 +1,38 @@
+.product{
+    width: 200px;
+    height: 250px;
+    border: 1px solid #ccc;
+}
+.product .img img{
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+}
+.product .img{
+    width: 100%;
+    height:150px;
+}
+.details p{
+    font-weight: 500;
+    font-size: 14px;
+    color: #888;
+}
+.details{
+    padding: 5px;
+}
+.details h3{
+    margin-bottom: 10px;
+}
+.details button{
+    background-color: teal;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    margin-top: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.btnremove{
+    background-color: red !important;
+}

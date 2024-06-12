@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.studendTable table{
+  border: 2px solid #ccc;
+  width: 200px;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+.studendTable th,.studendTable td{
+  text-align: left;
+  border: 2px solid #ccc;
+  padding: 3px;
+}
+
+
